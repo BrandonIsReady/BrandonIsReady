@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Learning TS, C++ nad Python
+- 🔭 I’m currently working on Learning TS, C++ and Python
 
 - 📫 How to reach me: https://www.linkedin.com/in/brandon-stirling-955686226/
 
